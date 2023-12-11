@@ -1,1 +1,10 @@
 /* write your carousel css in this file */
+
+.carousel-arrow{
+    cursor: pointer;
+}
+
+.carousel-arrow:hover{
+    color: white;
+
+}
